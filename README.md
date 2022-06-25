@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mo-maher
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning app development
+- 👀 Interested in frontend development
+- 🌱 Currently learning app development
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me ...
 
